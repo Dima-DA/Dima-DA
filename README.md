@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gloria Chidimma Idemoh
 - 👀 I’m interested in Data Analysis and Visualization. 
-- 🌱 I’m currently learning Data Analysis and Visualization at LITA/The Incubator Hub, 3MTT and Start Hub Innovation.
+- 🌱 I’m currently learning Data Analysis and Visualization.
 - 💞️ I’m looking to collaborate on Research and Data Analysis Project.
 - ⚡ Fun fact: Smart, Friendly and Prompt.
 
